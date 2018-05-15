@@ -1,5 +1,5 @@
 ## Konsep
- (Workshop)[https://github.com/LombokDev/wiki/blob/master/event-concepts/workshop.md]
+ [Workshop](https://github.com/LombokDev/wiki/blob/master/event-concepts/workshop.md)
  ## Susunan acara
  | WAKTU | PEMBICARA | AGENDA |
  |---------|------------|-----------|
