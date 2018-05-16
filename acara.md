@@ -10,6 +10,7 @@ Workshop ini akan dilaksanakan pada:
 
 ## Registrasi
 Registrasi bisa dilakukan pada form berikut: [Link ke form pendaftaran](https://goo.gl/forms/g2PUIYZzNg3JV9SC2)
+
 Terbatas hanya untuk 25 peserta, jangan sampai ketinggalan!
 
 ## Susunan acara
