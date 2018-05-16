@@ -14,16 +14,16 @@ Registrasi bisa dilakukan pada form berikut: [Link ke form pendaftaran](https://
 Terbatas hanya untuk 25 peserta, jangan sampai ketinggalan!
 
 ## Susunan acara
-| WAKTU   | PEMBICARA  | AGENDA       |
-|---------|------------|--------------|
-| 13.00   | -          | Registrasi   |
-| 14.00   | Pembukaan  | Moderator    |
-| 14.05   | Light Talk | Workshop     |
-| 15.00   | Pemateri   | Workshop     |
-| 16.00   | -          | Istirahat    |
-| 16.30   | Pemateri   | Workshop     |
-| 17.30   | -          | Ngabuburit   |
-| 18.10   | -          | Buka bersama |
+| WAKTU         | PEMBICARA  | AGENDA       |
+|---------------|------------|--------------|
+| 13.00 - 14.30 | -          | Registrasi   |
+| 14.30 - 14.35 | Pembukaan  | Moderator    |
+| 14.35 - 15.00 | Pemateri   | Light Talk   |
+| 15.00 - 16.00 | Pemateri   | Workshop     |
+| 16.00 - 16.30 | -          | Istirahat    |
+| 16.30 - 17.30 | Pemateri   | Workshop     |
+| 17.30 - 18.10 | -          | Ngabuburit   |
+| 18.10 - ....  | -          | Buka bersama |
 
 ## Aturan
 1. Panjang workshop mengikuti materi
