@@ -5,8 +5,8 @@
 
 ## Waktu dan Tempat
 Workshop ini akan dilaksanakan pada:
-**Tanggal**: 20 Mei 2018
-**Lokasi**: STMIK Bumigora Mataram, ruangan Lab Multimedia. [Map ke STMIK](https://goo.gl/maps/kfNdiknNiC92)
+- **Tanggal**: 20 Mei 2018
+- **Lokasi**: STMIK Bumigora Mataram, ruangan Lab Multimedia. [Map ke STMIK](https://goo.gl/maps/kfNdiknNiC92)
 
 ## Registrasi
 Registrasi bisa dilakukan pada form berikut: [Link ke form pendaftaran](https://goo.gl/forms/g2PUIYZzNg3JV9SC2)
