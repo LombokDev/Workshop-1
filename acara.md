@@ -18,7 +18,7 @@ Terbatas hanya untuk 25 peserta, jangan sampai ketinggalan!
 |-----------------|---------------|--------------|
 | 13.00 - 14.30   | -             | Registrasi   |
 | 14.30 - 14.35   | Pembukaan     | Moderator    |
-| 14.35 - 15.55   | Pemateri      | Light Talk   |
+| 14.35 - 14.55   | Pemateri      | Light Talk   |
 | 14.55 - 15.00   | Pemateri      | Light Talk   |
 | 15.00 - 16.00   | [Parlinggoman Rinando Hasibuan](https://www.linkedin.com/in/goman/)      | Workshop     |
 | 16.00 - 16.30   | -             | Istirahat    |
