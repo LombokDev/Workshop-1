@@ -9,7 +9,7 @@ Workshop ini akan dilaksanakan pada:
 - **Lokasi**: STMIK Bumigora Mataram, ruangan Lab Multimedia. [Map ke STMIK](https://goo.gl/maps/kfNdiknNiC92)
 
 ## Registrasi
-Registrasi bisa dilakukan pada form berikut: [Link ke form pendaftaran](https://goo.gl/forms/g2PUIYZzNg3JV9SC2)
+Registrasi bisa dilakukan pada form berikut: [Link ke form pendaftaran](https://goo.gl/forms/7yPqWEXxt9QxjdSg2)
 
 Terbatas hanya untuk 25 peserta, jangan sampai ketinggalan!
 
