@@ -17,16 +17,16 @@
  | **Total**             | **Rp352,000** |
 
  ### Sticker
- <img src="./slides/sticker.jpeg" />
+ <img src="./docs/sticker.jpeg" />
 
  ### Plastik bungkus kurma
- <img src="./slides/plastik.jpg" />
+ <img src="./docs/plastik.jpg" />
  
  ### Kue pemateri
- <img src="./slides/kue-pemateri.jpg" />
+ <img src="./docs/kue-pemateri.jpg" />
 
  ### Teh, spidol
- <img src="./slides/teh-spidol.jpg" />
+ <img src="./docs/teh-spidol.jpg" />
 
  ### Bukber, air narmada kotak gak ada nota
 
