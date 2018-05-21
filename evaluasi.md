@@ -1,6 +1,5 @@
 ## Persentase kehadiran
- 
+ 20 Orang
  ## Masukan dan kritik
- - point 1
- - point 2
+ - Kolaborasi persiapan kurang
 
