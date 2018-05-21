@@ -31,5 +31,5 @@
  ### Bukber, air narmada kotak gak ada nota
 
  ## Sisa kas
- Rp367,000-Rp341,500 = **Rp15,000**
+ Rp367,000-Rp352,000 = **Rp15,000**
 
